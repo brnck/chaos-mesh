@@ -17,8 +17,8 @@ require (
 	github.com/chaos-mesh/chaos-driver v0.2.1
 	github.com/chaos-mesh/chaos-mesh/api v0.0.0
 	github.com/chaos-mesh/k8s_dns_chaos v0.2.0
-	github.com/containerd/cgroups v1.0.2-0.20210605143700-23b51209bf7b
-	github.com/containerd/containerd v1.5.10
+	github.com/containerd/cgroups v1.0.3
+	github.com/containerd/containerd v1.5.13
 	github.com/docker/docker v20.10.7+incompatible
 	github.com/ethereum/go-ethereum v1.10.2
 	github.com/fatih/color v1.9.0
@@ -103,7 +103,7 @@ require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/MakeNowJust/heredoc v0.0.0-20170808103936-bb23615498cd // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
-	github.com/Microsoft/hcsshim v0.8.23 // indirect
+	github.com/Microsoft/hcsshim v0.8.24 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/alecthomas/units v0.0.0-20210927113745-59d0afb8317a // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.2 // indirect
